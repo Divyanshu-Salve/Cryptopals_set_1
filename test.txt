@@ -1,0 +1,7 @@
+line 1
+line 2
+ appended to line 2 with a space in beginning appended to line  with a space in beginning\n thought it would endwould end with newline\n thought it would endwould end with newline
+newline
+newline-2
+ewline
+ewlikldlkjlkdje
